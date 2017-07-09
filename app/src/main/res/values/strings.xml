@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">AroundCluj</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="food">Food</string>
+    <string name="shopping">Shop</string>
+    <string name="museum">Museum</string>
+    <string name="park">Park</string>
+
+
+    <string name="food1">Big Belly</string>
+    <string name="food2">Pizzeria Toskana</string>
+    <string name="food3">Marty Boulevard</string>
+
+    <string name="food1_address">Calea Mănăștur 68</string>
+    <string name="food2_address">Cluj-Napoca</string>
+    <string name="food3_address">Strada Horea 5</string>
+
+    <string name="museum1">Museum of Transylvanian History</string>
+    <string name="museum2">Zoological Museum</string>
+    <string name="museum3">Bánffy Palace</string>
+
+    <string name="museum1_address">Strada Constantin Daicoviciu 2</string>
+    <string name="museum2_address"> Clinicilor Street 5-7</string>
+    <string name="museum3_address"> Piața Unirii 30</string>
+
+    <string name="museum1_description">Muzeul Etnografic al Transilvaniei este un muzeu în municipiul
+        Cluj-Napoca. Muzeul a fost înființat la 16 iunie 1922, fiind una dintre realizările culturale ale
+        perioadei următoare Marii Uniri de la 1 decembrie 1918. Cu peste 80 de ani vechime neîntreruptă,
+        muzeul a ajuns cel mai mare de acest gen din România și unul dintre cele mai prestigioase din Europa.</string>
+    <string name="museum2_description">Muzeul Național de Istorie a Transilvaniei, din Cluj-Napoca, situat pe str. Constantin Daicoviciu nr. 2, în clădirea cunoscută și drept Casa Petrechevich-Horvath este continuatorul primei asociații muzeale din Transilvania, Societatea Muzeului Ardelean, înființată la 23 noiembrie 1859,
+        dispunând de colecții bogate de de antichități, mineralogie, botanică, o pinacotecă, o colecție
+        etnografică și zoologie.</string>
+    <string name="museum3_description">Bánffy Castle is a baroque building of the 18th century in Cluj-Napoca, designed by the German architect Johann Eberhard Blaumann.
+        Built between 1774 and 1775 it is considered the most representative for the baroque style of Transylvania.</string>
+
+    <string name="shop1">Vivo!</string>
+    <string name="shop2">Platinia Shopping Center</string>
+    <string name="shop3">Iulius Mall</string>
+
+    <string name="shop1_address">Strada Avram Iancu 492–500, Florești 407280</string>
+    <string name="shop2_address">Calea Manastur 2–6, Calea Mănăștur</string>
+    <string name="shop3_address">Strada Alexandru Vaida Voevod 53B</string>
+
+    <string name="parc1">Central Park</string>
+    <string name="parc2">"Iuliu Hațieganu" Sports Park</string>
+    <string name="parc3">Rose Park Skatepark</string>
+    <string name="parc4">Cetatuia Park</string>
+    <string name="parc5">Colina Park</string>
+
+    <string name="parc1_address">Centru Cluj-Napoca</string>
+    <string name="parc2_address">Strada Pandurilor 7</string>
+    <string name="parc3_address">Strada Taberei</string>
+    <string name="parc4_address">Cluj-Napoca</string>
+    <string name="parc5_address">Strada Bucium</string>
+
+    <string name="parc1_description">Central Park is a large public, urban park in central Cluj-Napoca.
+        It was founded in the 19th century and it located on the souther shore of Someşul Mic River.</string>
+    <string name="parc2_description">"Prof. PhD Iuliu Hațieganu" University Sports Park or, by its old name,
+        the "Babeș" Park is one of the biggest parks of Cluj-Napoca and at the same time it is also the
+        campus of the Faculty of Physical Education and Sport within UBB. It is situated along the Someș river
+        on the West side of the city and it expands over a total surface of 25 hectares out of which around 2/3
+        consists of green spaces with alleys, lawn, flower beds, surfaces with trees and shrubs.</string>
+
+</resources>
